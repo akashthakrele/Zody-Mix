@@ -32,12 +32,12 @@ Zody is a modern Spotify clone built with a clean UI and music playback function
 📁 Folder Structure
 
 /public <br>
-/src
-  /assets
-  /components
-  /pages
-  /redux (or /context)
-  /utils
+/src <br>
+  /assets <br>
+  /components <br>
+  /pages <br>
+  /redux (or /context) <br>
+  /utils <br>
 
 🙌 Credits
 
