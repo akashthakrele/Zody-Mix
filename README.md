@@ -27,13 +27,6 @@ Zody is a modern Spotify clone built with a clean UI and music playback function
 
     API integration – (e.g., RapidAPI, Spotify API clone)
 
-📦 Installation
-
-git clone https://github.com/yourusername/zody-spotify-clone.git
-cd zody-spotify-clone
-npm install
-npm start
-
 
 
 📁 Folder Structure
